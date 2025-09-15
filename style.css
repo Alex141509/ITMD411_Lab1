@@ -8,3 +8,38 @@ body {
     color: #333;
   }
   
+  /* Header section */
+  header {
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  header img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%; 
+    margin-bottom: 10px;
+  }
+  
+  header h1 {
+    margin: 10px 0 5px 0;
+    font-size: 2rem;
+  }
+  
+  header h2 {
+    margin: 5px 0 15px 0;
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: #666;
+  }
+  
+  header a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #0073e6;
+  }
+  
+ 
